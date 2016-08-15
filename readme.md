@@ -1,4 +1,4 @@
-# PIN Payments implementation using Lumen
+# PIN Payments API implementation using Lumen
 
 ## Installation
 Given that you have composer installed, else get composer [here](http://getcomposer.org/)
