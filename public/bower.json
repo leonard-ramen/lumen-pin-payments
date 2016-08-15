@@ -1,0 +1,23 @@
+{
+  "name": "socf-pin-payments",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Leonard Laput <leonard-ramen@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/leonard-ramen/lumen-pin-payments",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "semantic": "semantic-ui#^2.2.2",
+    "angular-route": "^1.5.8",
+    "lodash": "^4.14.2"
+  }
+}
